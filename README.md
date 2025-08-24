@@ -16,8 +16,7 @@ A sleek, real-time digital clock built with HTML, CSS, and JavaScript. Perfect f
 
 ## 🖥️ Demo
 
-![Digital Clock Screenshot](path/to/screenshot.png)  
-*(Replace with your own screenshot for best effect)*
+![Digital Clock Screenshot](Pictures/digiclock.png)  
 
 ---
 
@@ -25,4 +24,4 @@ A sleek, real-time digital clock built with HTML, CSS, and JavaScript. Perfect f
 
 1. Clone the repository:  
    `bash
-   git clone https://github.com/yourusername/digital-clock.git
+   git clone https://github.com/Soshi-frontdev/Digital-Clock.git
