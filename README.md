@@ -16,7 +16,7 @@ A sleek, real-time digital clock built with HTML, CSS, and JavaScript. Perfect f
 
 ## 🖥️ Demo
 
-![Digital Clock Screenshot](Pictures/digiclock.png)  
+![Digital Clock Screenshot](digiclock.png)  
 
 ---
 
